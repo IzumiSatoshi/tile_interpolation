@@ -1,3 +1,7 @@
+"""
+almost StableDiffusionControlNetImg2ImgPipeline
+"""
+
 # Inspired by: https://github.com/haofanwang/ControlNet-for-Diffusers/
 
 import inspect
